@@ -1,5 +1,5 @@
-# YOLOv3
-Pytorch implementation of real time object detection algorithm YOLOv3
+# NC Museum of Science Computer Vision Expo
+Pytorch implementation of real time object detection algorithm YOLOv3 with interactive UI
 
 Guided by [YOLOv3 Pytorch implementation tutorial](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 but has a better style and structure in my opinion
@@ -72,6 +72,7 @@ But the saved video will be in normal speed for detecting on a video because it 
 
 
 ## Reference
+- Initial Clone from [Zhaoyanglijoey] (https://github.com/zhaoyanglijoey/yolov3)
 - Paper [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - Paper [Website](https://pjreddie.com/darknet/yolo/)
 - [Tutorial](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
